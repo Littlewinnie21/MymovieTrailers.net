@@ -1,0 +1,47 @@
+input {
+	height: 35px;
+	border-radius: 10px;
+	border: 2px solid lightgrey;
+	margin-top: 8px;
+	}
+	.button {
+		margin-left: 30%;
+		}
+	.watch {
+		margin-top: 17px;
+		height: 30px;
+		border-radius: 10px;
+		border: 1px solid skyblue;
+		background-color: white;
+		color: blue;
+		width: 55px;
+		}
+	img {
+		height: 70px;
+		width: 70px;
+		margin-top: 2px;
+		border-radius: 12px;
+		margin-left: 5px
+		}
+		div.2025 {
+			display: flex;
+			margin-top: 15px;
+			}
+			#search {
+				height: 35px;
+				border-radius: 8px;
+				border: 2px solid skyblue;
+				background-color: skyblue;
+				color: white;
+				}
+#trailers {
+	border-radius: 8px;
+	padding-bottom: 10px;
+}
+        .link {
+				margin-top: 9px;
+				border: 1px solid lightgrey;
+				border-radius: 5px;
+				color: blue;
+				background-color: white;
+				}
