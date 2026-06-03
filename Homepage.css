@@ -1,0 +1,61 @@
+input {
+	height: 30px;
+	border-radius: 10px;
+	border: 2px solid lightgrey;
+	}
+	.search {
+		background-color: white;
+		color: blue;
+		border-radius: 10px;
+		border: 2px solid lightgrey;
+		height: 30px
+		}
+		nav {
+			word-spacing: 7px;
+			}
+			a { 
+				text-decoration: none;
+				color: black;
+				}
+				.active {
+					text-decoration: underline;
+					color: orange;
+					}
+			footer {
+				color: blue;
+				text-align: center;
+				}
+		img {
+			height: 70px;
+			width: 60px;
+			border-radius: 8px;
+			}
+	.view {
+		background-color: skyblue;
+		color: white;
+		border: 1px solid white;
+		border-radius: 10px;
+		}
+	.movies {
+		display: flex;
+		margin-top: 8px ;
+		margin-left: 5px;
+		}
+		#trailers {
+			border: 2px solid lightgrey;
+			border-radius: 10px;
+			padding-bottom: 5px;
+			}
+			.link {
+				margin-top: 9px;
+				border: 1px solid lightgrey;
+				border-radius: 5px;
+				color: blue;
+				background-color: white;
+				}
+		span {
+			margin-left: 8px;
+			}
+		small {
+			margin-left: 8px;
+			}
